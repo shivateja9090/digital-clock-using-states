@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/digital-clock-using-states/static/css/main.f906e20b.chunk.css",
+    "main.js": "/digital-clock-using-states/static/js/main.0fe9a4c9.chunk.js",
+    "main.js.map": "/digital-clock-using-states/static/js/main.0fe9a4c9.chunk.js.map",
+    "runtime-main.js": "/digital-clock-using-states/static/js/runtime-main.9c445b1b.js",
+    "runtime-main.js.map": "/digital-clock-using-states/static/js/runtime-main.9c445b1b.js.map",
+    "static/js/2.e9ad9c3c.chunk.js": "/digital-clock-using-states/static/js/2.e9ad9c3c.chunk.js",
+    "static/js/2.e9ad9c3c.chunk.js.map": "/digital-clock-using-states/static/js/2.e9ad9c3c.chunk.js.map",
+    "static/js/3.7eb767e6.chunk.js": "/digital-clock-using-states/static/js/3.7eb767e6.chunk.js",
+    "static/js/3.7eb767e6.chunk.js.map": "/digital-clock-using-states/static/js/3.7eb767e6.chunk.js.map",
+    "index.html": "/digital-clock-using-states/index.html",
+    "static/css/main.f906e20b.chunk.css.map": "/digital-clock-using-states/static/css/main.f906e20b.chunk.css.map",
+    "static/js/2.e9ad9c3c.chunk.js.LICENSE.txt": "/digital-clock-using-states/static/js/2.e9ad9c3c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9c445b1b.js",
+    "static/js/2.e9ad9c3c.chunk.js",
+    "static/css/main.f906e20b.chunk.css",
+    "static/js/main.0fe9a4c9.chunk.js"
+  ]
+}
